@@ -26,5 +26,4 @@ class MainActivity : AppCompatActivity() {
                 binding.textNfcSupport.text = getString(R.string.not_supported, "No")
         }
     }
-
 }
