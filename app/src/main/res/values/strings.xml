@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestNFCSupport</string>
+    <string name="test_nfc_support">Test NFC support</string>
+    <string name="not_supported" translatable="false">Supported: %s</string>
+</resources>
